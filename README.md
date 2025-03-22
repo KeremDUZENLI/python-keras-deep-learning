@@ -26,15 +26,15 @@ A collection of deep learning examples using Keras, covering neural networks, re
 
 ### Notebook Descriptions
 
-- [1_neural_networks.ipynb](notebooks/1_neural_networks.ipynb): Basics of neural networks with Keras.
-- [2_backpropagation.ipynb](notebooks/2_backpropagation.ipynb): Understanding the backpropagation algorithm and its implementation in Keras.
-- [3_neural_recommender.ipynb](notebooks/3_neural_recommender.ipynb): Building a simple recommender system using neural networks.
-- [4_convolutional_network.ipynb](notebooks/4_convolutional_network.ipynb): Introduction to convolutional neural networks (CNNs) for image classification.
-- [5_full_convolutional_network.ipynb](notebooks/5_full_convolutional_network.ipynb): Implementing a full convolutional network for image segmentation tasks.
-- [6_convolutional_network_classification.ipynb](notebooks/6_convolutional_network_classification.ipynb): Classifying images using a convolutional neural network.
-- [7_1_text_classification.ipynb](notebooks/7_1_text_classification.ipynb): Text classification using recurrent neural networks (RNNs).
-- [7_2_seq2seq_translation.ipynb](notebooks/7_2_seq2seq_translation.ipynb): Sequence-to-sequence models for language translation tasks.
-- [8_variational_autoencoders.ipynb](notebooks/8_variational_autoencoders.ipynb): Implementing variational autoencoders for generative modeling.
+- (notebooks/1_neural_networks.ipynb) : Basics of neural networks with Keras.
+- (notebooks/2_backpropagation.ipynb) : Understanding the backpropagation algorithm and its implementation in Keras.
+- (notebooks/3_neural_recommender.ipynb) : Building a simple recommender system using neural networks.
+- (notebooks/4_convolutional_network.ipynb) : Introduction to convolutional neural networks (CNNs) for image classification.
+- (notebooks/5_full_convolutional_network.ipynb) : Implementing a full convolutional network for image segmentation tasks.
+- (notebooks/6_convolutional_network_classification.ipynb) : Classifying images using a convolutional neural network.
+- (notebooks/7_1_text_classification.ipynb) : Text classification using recurrent neural networks (RNNs).
+- (notebooks/7_2_seq2seq_translation.ipynb) : Sequence-to-sequence models for language translation tasks.
+- (notebooks/8_variational_autoencoders.ipynb) : Implementing variational autoencoders for generative modeling.
 
 ## Contributing
 
