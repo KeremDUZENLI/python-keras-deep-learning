@@ -20,3 +20,10 @@ A collection of deep learning examples using Keras, covering neural networks, re
 7. Freeze dependencies: `python -m pip freeze > requirements.txt`
 
 ## Notebooks
+
+1. Install Jupyter: `pip install jupyterlab`
+2. Launch Jupyter: `jupyter lab`
+
+- [01_neural_networks.ipynb](notebooks/01_neural_networks.ipynb): Basics of neural networks with Keras.
+- [02_recommender_systems.ipynb](notebooks/02_recommender_systems.ipynb): Building recommender systems.
+  ...
