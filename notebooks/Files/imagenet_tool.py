@@ -4,11 +4,12 @@ from os import listdir
 from os.path import isfile, join, dirname
 from scipy.io import loadmat
 
-meta_clsloc_file = join(dirname(__file__), "data", "meta_clsloc.mat")
-synsets = loadmat(meta_clsloc_file)["synsets"][0]
-synsets_imagenet_sorted = sorted([(int(s[0]), str(s[1][0])) for s in synsets[:1000]],
-                                 key=lambda v:v[1])
 
+meta_clsloc_file = "Files/meta_clsloc.mat"
+synsets = loadmat(meta_clsloc_file)["synsets"][0]
+synsets_imagenet_sorted = sorted(
+    [(int(s[0]), str(s[1][0])) for s in synsets[:1000]], key=lambda v: v[1]
+)
 corr = {}
 for j in range(1000):
     corr[synsets_imagenet_sorted[j][0]] = j
