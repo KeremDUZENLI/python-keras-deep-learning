@@ -1,0 +1,7 @@
+myEnv/
+notebooks/Downloads
+
+.ipynb_checkpoints/
+.py_checkpoints/
+__pycache__/
+.py_cache/
