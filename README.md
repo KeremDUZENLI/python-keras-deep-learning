@@ -32,8 +32,7 @@ A collection of deep learning examples using Keras, covering neural networks, re
 - (notebooks/4_convolutional_network.ipynb) : Introduction to convolutional neural networks (CNNs) for image classification.
 - (notebooks/5_full_convolutional_network.ipynb) : Implementing a full convolutional network for image segmentation tasks.
 - (notebooks/6_convolutional_network_classification.ipynb) : Classifying images using a convolutional neural network.
-- (notebooks/7_1_text_classification.ipynb) : Text classification using recurrent neural networks (RNNs).
-- (notebooks/7_2_seq2seq_translation.ipynb) : Sequence-to-sequence models for language translation tasks.
+- (notebooks/7_text_classification_seq2seq_translation.ipynb) : Text classification using (RNNs) and Sequence-to-sequence models for language translation.
 - (notebooks/8_variational_autoencoders.ipynb) : Implementing variational autoencoders for generative modeling.
 
 ## Contributing
