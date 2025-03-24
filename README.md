@@ -41,7 +41,7 @@ A collection of deep learning examples using Keras, covering neural networks, re
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
 1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`
+2. Create a new branch: `git checkout -b YourBranch`
 3. Make your changes and commit them: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/YourFeature`
+4. Push to the branch: `git push origin YourBranch`
 5. Open a pull request.
