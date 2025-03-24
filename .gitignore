@@ -1,7 +1,13 @@
+# Ignore Virtual Environment
 myEnv/
-notebooks/Downloads
 
+# Ignore everything inside the Downloads folder
+notebooks/Downloads/*
+
+# Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Ignore Python bytecode and cache
 .py_checkpoints/
 __pycache__/
 .py_cache/
