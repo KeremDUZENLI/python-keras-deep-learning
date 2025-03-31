@@ -9,5 +9,5 @@ notebooks/Downloads/*
 
 # Ignore Python bytecode and cache
 .py_checkpoints/
-__pycache__/
 .py_cache/
+__pycache__/
