@@ -82,8 +82,6 @@ This project is based on the **Advanced Machine Learning** course at the **Unive
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
 1. Fork the repository.
 2. Create a new branch:
    ```sh
@@ -118,6 +116,8 @@ This repository is intended **only for educational and research purposes**. The 
 
 If you find this resource valuable and would like to help support my education and doctoral research, please consider treating me to a cup of coffee (or tea) via Revolut.
 
-<a href="https://revolut.me/krmdznl" target="_blank">
-<img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut" />
-</a>
+<div style="text-align: center;">
+   <a href="https://revolut.me/krmdznl" target="_blank">
+   <img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut" />
+   </a>
+</div>
