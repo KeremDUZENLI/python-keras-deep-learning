@@ -2,6 +2,12 @@
 
 A collection of deep learning examples using Keras, covering neural networks, recommender systems, convolutions, and object detection. Based on the course **Advanced Machine Learning**, University of Debrecen.
 
+## GitHub Repository (Standalone Version)
+
+You can access the non-Colab version of the project directly on GitHub:
+
+[github.com/KeremDUZENLI/python-keras-deep-learning](https://github.com/KeremDUZENLI/python-keras-deep-learning)
+
 ## Install
 
 1. Download Python 3.6.8: [Python 3.6.8 Download](https://www.python.org/downloads/release/python-368/)
@@ -115,3 +121,9 @@ This repository is intended **only for educational and research purposes**. The 
 ## Support My Work
 
 If you find this resource valuable and would like to help support my education and doctoral research, please consider treating me to a cup of coffee (or tea) via Revolut.
+
+<div align="center">
+  <a href="https://revolut.me/krmdznl" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut" />
+  </a>
+</div> <br>
