@@ -63,7 +63,7 @@ A collection of deep learning examples using Keras, covering neural networks, re
 
 ## Acknowledgments
 
-This project is based on the **Advanced Machine Learning** course at the **University of Debrecen**, developed and taught by:
+This project is based on the **Advanced Machine Learning** course at the **University of Debrecen**
 
 - **Prof. Dr. András Hajdu** – Dean, Head of Department
 
@@ -71,10 +71,14 @@ This project is based on the **Advanced Machine Learning** course at the **Unive
   - Email: [hajdu.andras@inf.unideb.hu](mailto:hajdu.andras@inf.unideb.hu)
 
 - **Dr. Balázs Harangi** – Associate Professor, Deputy Head of Department
+
   - _Department of Data Science and Visualization, Faculty of Informatics, University of Debrecen_
   - Email: [harangi.balazs@inf.unideb.hu](mailto:harangi.balazs@inf.unideb.hu)
 
-The repository has been refactored, cleaned, and maintained by **Kerem Düzenli**, Ph.D. candidate in Informatics at the **University of Debrecen**. If you have any questions, feel free to reach out via GitHub.
+- **Kerem Düzenli** – PhD Candidate, University of Debrecen
+
+  - _Creator and maintainer of this repository_
+  - Email: [kerem.duzenli@inf.unideb.hu](mailto:kerem.duzenli@inf.unideb.hu)
 
 ## Contributing
 
@@ -109,3 +113,11 @@ For details, see the [LICENSE](LICENSE) file or read more at [Creative Commons](
 ## Disclaimer
 
 This repository is intended **only for educational and research purposes**. The authors and contributors assume no responsibility for misuse of the code or any implications arising from its use.
+
+## Support My Work
+
+If you find this resource valuable and would like to help support my education and doctoral research, please consider treating me to a cup of coffee (or tea) via Revolut.
+
+<a href="https://revolut.me/krmdznl" target="_blank">
+<img src="https://img.shields.io/badge/Support%20My%20Projects-Donate%20via%20Revolut-orange?style=for-the-badge" alt="Support my education via Revolut" />
+</a>
