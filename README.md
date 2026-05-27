@@ -96,10 +96,9 @@ You can access the non-Colab version of the project directly on GitHub:
 - [4. Convolutional Networks](notebooks/4_convolutional_network.ipynb) – Introduction to convolutional neural networks (CNNs) for image classification.
 - [5. Fully Convolutional Networks](notebooks/5_full_convolutional_network.ipynb) – Implementing a full convolutional network for image segmentation tasks.
 - [6. CNN Classification](notebooks/6_convolutional_network_classification.ipynb) – Classifying images using a convolutional neural network.
-- [7. Text Classification & Seq2Seq Translation](notebooks/7_text_classification_seq2seq_translation.ipynb) – Text classification using RNNs and sequence-to-sequence models for language translation.
+- [7. Text Classification & Seq2Seq Translation](notebooks/7_text_classification_seq2seq_translation.ipynb) – Text classification using RNNs and language translation.
 - [8. Variational Autoencoders](notebooks/8_variational_autoencoders.ipynb) – Implementing variational autoencoders for generative modeling.
-- [9.1 Face Verification](9.1_face_verification_siamese_nets.ipynb) – Face Verification with Siamese Networks.
-- [9.2 Face Verification](9.2_face_verification_triplet_loss.ipynb) – Face Verification with Triplet Loss.
+- [9 Face Verification](9_face_verification.ipynb) – Face Verification
 
 ## Acknowledgments
 
